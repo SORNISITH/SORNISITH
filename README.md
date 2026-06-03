@@ -15,7 +15,7 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 ### Web Dev
 
 **Frontend Dev:**
-- Vue.js - React , Tailwindcss, JavaScript & TypeScript 
+- Vue.js , React , Tailwindcss, JavaScript & TypeScript 
 
 **Backend Dev:**
 - Node.js, Express.js
