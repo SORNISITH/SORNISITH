@@ -8,10 +8,10 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 ---
 ## Experience & Skills
 ``` c
+Design     : Photoshop, Illustrator, Branding, Logo Design
 Frontend   : React, Vue.js, JavaScript, TypeScript, TailwindCSS
 Backend    : Node.js, Express.js, REST APIs, JWT, OAuth
 Database   : MongoDB, PostgreSQL
-Design     : Photoshop, Illustrator, Branding, Logo Design
 Security   : C, Assembly, Reverse Engineering, CTF, Pentesting
 Systems    : Void Linux, Arch Linux, Docker, Nginx, Git, Bash
 Editors    : Emacs, Neovim
