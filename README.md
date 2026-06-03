@@ -45,8 +45,6 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 - Command-line proficiency
 - System hardening and security
 
----
-
 ### Programing Languages
 - C , Bash , Asm 
 - JavaScript / TypeScript
@@ -59,6 +57,3 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 ---
 
 **Portfolio:** https://nz-portfolio.netlify.app/
-
----
-Last updated: PP, 2026
