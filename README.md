@@ -9,13 +9,13 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 ---
 ## Experience & Skills
 
-### Design
+### I. Design
 
 **Adobe**
 - Adobe Photoshop - advanced photo editing, retouching, manipulation
 - Adobe Illustrator - vector design, logo creation, branding
 
-### Web Dev
+### II. Web Dev
 
 **Frontend Dev:**
 - Vue.js , React , Tailwindcss, JavaScript & TypeScript 
@@ -30,7 +30,7 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 - API development and integration
 - Server configuration and deployment
 
-### Cybersecurity & System 
+### III. Cybersecurity & System 
 **Programming & Low-Level Development:**
 - C Programming - systems programming, performance-critical code
 - Reverse Engineering - binary analysis, code analysis
@@ -48,12 +48,10 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 - Command-line proficiency
 - System hardening and security
 
-### Programing Languages
-- C , Bash , Asm 
-- JavaScript / TypeScript
-
-### My Tools
+### My Tools & LANGUAGES
 - Primary OS: Void Linux, Arch Linux
 - Dev Tools : Emacs, NVIM
 - Docker, git, nginx etc..
+- C , Bash , Asm 
+- JavaScript / TypeScript
 
