@@ -1,9 +1,10 @@
 # S0R NISITH
 
 I'm a WEB dev & designer  passionate about building clean, user-friendly digital experiences. With experience in both development and design, I enjoy solving problems, exploring new technologies.
+**Portfolio:** https://nz-portfolio.netlify.app/
+**Telegram:**  https://t.me/nz_9999999999999999999999999
 
 ---
-
 ## Experience & Skills
 
 ### Design
@@ -54,6 +55,3 @@ I'm a WEB dev & designer  passionate about building clean, user-friendly digital
 - Dev Tools : Emacs, NVIM
 - Docker, git, nginx etc..
 
----
-
-**Portfolio:** https://nz-portfolio.netlify.app/
